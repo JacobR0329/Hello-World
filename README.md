@@ -3,11 +3,11 @@
 **Hello World Sample**
 
 
-# Description
+### Description
 
 *This project is to help students practice using GitHub. Hopefully as I take more courses, I can put more upload more projects.*
 
 
-# Additional Documentation
+### Additional Documentation
 
 - [LinkedIn](https://www.linkedin.com/in/jacob-robin-33b395207/)
