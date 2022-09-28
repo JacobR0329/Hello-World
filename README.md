@@ -1,4 +1,4 @@
-## Jake's First GitHub Projects
+## Jake's First GitHub Project
 
 **Hello World Sample**
 
