@@ -1,4 +1,4 @@
-## Project Title
+## Jake's First GitHub Projects
 
 **Hello World Sample**
 
