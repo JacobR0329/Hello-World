@@ -10,4 +10,4 @@
 
 ### Additional Documentation
 
-- [LinkedIn](https://www.linkedin.com/in/jacob-robin-33b395207/)
+No additional documentation at this time. 
