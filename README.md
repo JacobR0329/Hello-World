@@ -5,7 +5,7 @@
 
 ### Description
 
-*This project is to help students practice using GitHub. Hopefully as I take more courses, I can put more upload more projects.*
+*This project is to help me practice using GitHub. Hopefully as I complete more courses, I can upload more projects.*
 
 
 ### LinkedIn Profile
